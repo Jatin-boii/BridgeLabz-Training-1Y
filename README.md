@@ -49,8 +49,3 @@ To explore or execute the Java code in this repository:
 
 👨‍💻 About
 Maintained by an active first-year B.Tech CSE student passionate about clean code, continuous learning, and exploring the intersections of software engineering and AI.
-   
-   
-1. Clone the repository to your local machine:
-   ```bash
-   git clone [https://github.com/bhushansharmacs25-eng/Bridgelabz_Training_1Y.git](https://github.com/bhushansharmacs25-eng/Bridgelabz_Training_1Y.git)
